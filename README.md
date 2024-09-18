@@ -26,8 +26,6 @@ Note: Please update the parameters before running the docker compose file:
 
 # Step 2: Install GitHub Integration Apps on Nextcloud
 - update enable to Github Integration Apps the following Sociallogin Side Menu would appear
-<img width="322" alt="image" src="https://github.com/user-attachments/assets/f1c2824b-8ac3-4dde-9fc2-c98bf959ed6d">
-
 - On Sociallogin App, input the GitHub Client ID and Secrets to enable the oauth integration
 <img width="639" alt="image" src="https://github.com/user-attachments/assets/7f234f0d-7304-4186-b499-051e55c8a4f1">
 
