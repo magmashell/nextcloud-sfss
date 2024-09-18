@@ -29,6 +29,18 @@ Note: Please update the parameters before running the docker compose file:
 - On Sociallogin App, input the GitHub Client ID and Secrets to enable the oauth integration
 <img width="639" alt="image" src="https://github.com/user-attachments/assets/7f234f0d-7304-4186-b499-051e55c8a4f1">
 
+# Setting up NextCloud Client
+- Install NextCloud Client on endpoint to streamline the storing, retrieve, list and deletion of files
+- Setup Nextcloud Client to point to Nextcloud URL
+<img width="531" alt="image" src="https://github.com/user-attachments/assets/9020e272-34eb-45b9-9c6f-aadebcc9bdfc">
+
+- Login with GitHub Account
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/3124b41e-0d02-4259-a506-1311d0ee781e">
+
+# Recommendation Future improvement
+- 
+
+
 
 
 
