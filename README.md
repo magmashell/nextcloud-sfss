@@ -38,7 +38,10 @@ Note: Please update the parameters before running the docker compose file:
 <img width="470" alt="image" src="https://github.com/user-attachments/assets/3124b41e-0d02-4259-a506-1311d0ee781e">
 
 # Recommendation Future improvement
-- 
+- Set up a reverse proxy (e.g., Nginx or Apache) with SSL termination.
+- Enable Two-Factor Authentication (2FA) for the admin account.
+- Restrict access to the Nextcloud Admin Panel (e.g., through a VPN or IP whitelisting).
+- Set Rate-Limiting on Login Attempts
 
 
 
